@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.o
+gem5.opt
+gem5py
+gem5py_m5
