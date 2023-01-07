@@ -203,7 +203,7 @@ namespace minor
 {
 
 /** Container class to box instructions in the FUs to make those
- *  queues have correct bubble behaviour when stepped */
+ *  queues have correct bubble behaviour when steppped */
 class QueuedInst
 {
   public:
