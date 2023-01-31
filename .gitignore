@@ -5,3 +5,4 @@ gem5.opt
 gem5py
 gem5py_m5
 build/
+m5out/*
